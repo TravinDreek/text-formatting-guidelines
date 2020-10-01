@@ -54,12 +54,12 @@ HTML 常与 CSS 和 JavaScript 一起被众多网站用于设计网页.
 
 	❌ 错误示例:
 	```
-	连 photoshop 都不会用, 你就不会 google 一下吗?
+	在 JavaScript 中,被称为 this 的事物,指的是拥有该 JavaScript 代码的对象.
 	```
 
 	✔️ 正确示例:
 	```
-	连 PhotoShop 都不会用, 你就不会 Google 一下吗?
+	在 JavaScript 中, 被称为 this 的事物, 指的是拥有该 JavaScript 代码的对象.
 	```
 
 2. 对于引号和括号, 其内两侧无需增加空格; 外两侧一般需要增加一个空格.
