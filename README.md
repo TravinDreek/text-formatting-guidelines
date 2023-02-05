@@ -1,3 +1,8 @@
+# 通知
+**在 GitHub 存放的本标准已经过时, 且本仓库将不再更新. 请前往此处获取最新版本 <https://www.peaksol.org/articles/text-formatting-guidelines.html>.**
+
+---
+
 # Peaksol 的标准文档编写风格
 这是一套适用于中文文档的编写风格规范.
 
